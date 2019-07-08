@@ -78,6 +78,7 @@ We have performed k-means clustering on the PCA-transformed data and then comput
 
 1. Clustering Results Interpretation:
 ![proportion](proportion.PNG)
+
 After comparing customer data to general demographics data, we have found that Clusters 1 and 3 are over-represented and clusters 0, 2 and 4 are under-represented in the customer dataset.
 
 Cluster 1 accounts 37% in the customer population and 15.8% in the general population. From our analysis, it is clear that this segment of population are mostly older people, more likely to be in their 60s/born in 1940s.They consider themselves to be traditional, religious and dutiful. They have a range of interests in money from money savers. They don't seem likely to make rash purchases. 
