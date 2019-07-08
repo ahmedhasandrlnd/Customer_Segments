@@ -10,6 +10,7 @@ In this project, I'll apply unsupervised learning techniques to two datasets, id
 ### Data
 1. General Demographics Data
 1. Customer Demographics Data
+
 Both these datasets went through some data wrangling and standardiztion process before they moved to feature selection/extraction step.
 
 ### Feature Selection/Extraction
