@@ -84,5 +84,5 @@ Cluster 0 accounts 1.5% in the customer population and 17.7% in the general popu
 
 ### Knowledge
 * The mail-order company is popular with traditionally minded older customers. So we should target this segment of population in the marketing campaigns of the company.
-* The mail-order company is relatively unpopular with city living financially unsound customers. So we should target this segment of population in the marketing campaigns of the company. So, we need to find ways to attract this segment of population.
+* The mail-order company is relatively unpopular with city living financially unsound customers. So, we need to find ways to attract this segment of population.
 
