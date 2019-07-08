@@ -14,7 +14,7 @@ In this project, I'll apply unsupervised learning techniques to two datasets, id
 Both these datasets went through some data wrangling and standardiztion process before they moved to feature selection/extraction step.
 
 ### Feature Selection/Extraction
-We have used PCA to do feature extraction step.  By using PCA, it is possible to identify a set of underlying, or latent, components that can more simply explain the data. We can also reduce the dimension of the features in the step. We have reduced the dimension of features from 94 to 49 here. 90% of the variace is conserved in this dimensionality reduction step.
+We have used PCA to do feature extraction step.  By using PCA, it is possible to identify a set of underlying, or latent, components that can more simply explain the data. We can also reduce the dimension of the features in the step. We have reduced the dimension of features from 94 to 49 here. 90% of the variance is conserved in this dimensionality reduction step.
 ![Scree Plot](scree_plot.PNG)
 
 ### Clustering Algorithm Selection and Validation
