@@ -75,7 +75,7 @@ We have performed k-means clustering on the PCA-transformed data and then comput
 	        * SEMIO_RAT (Personality rational, highest)      
 	        * SHOPPER_TYP_2.0 (Shopper typology family-shopper, lowest)
 	        
-	These are men with combative, dominant, critical-minded, rational personality with practical thinking, anti-social, anti0cultural and anti-family attitude. They are interested in money, particularly around investing.
+	These are men with combative, dominant, critical-minded, rational personality and with practical thinking, anti-social, anti-cultural and anti-family attitude. They are interested in money, particularly around investing.
 
 1. Clustering Results Interpretation:
 ![proportion](proportion.PNG)
